@@ -1,0 +1,17 @@
+sample test 1
+inp:
+5
+2 3 1 4 2
+2 5
+
+out:
+8
+
+sample tests 2
+inp:
+8
+1 8 2 7 3 6 4 5
+3 10
+
+out:
+22

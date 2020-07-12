@@ -1,0 +1,14 @@
+sample input
+5
+1 2 3 4 5
+3
+1 4
+3 5
+1 5
+
+sample output
+10 12 15
+
+read more:
+https://www.geeksforgeeks.org/prefix-sum-array-implementation-applications-competitive-programming/ 	
+https://www.youtube.com/watch?v=pVS3yhlzrlQ

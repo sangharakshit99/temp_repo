@@ -1,0 +1,17 @@
+inp 1:
+5
+2 3 2 4 3
+
+out 1:
+3
+
+........................
+inp 2:
+10
+1 2 3 2 3 2 5 4 3 2
+
+out 2:
+5
+
+read more:
+https://www.geeksforgeeks.org/set-in-cpp-stl/

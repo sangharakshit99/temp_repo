@@ -1,0 +1,18 @@
+sample inp:
+5
+15 21
+55 23
+44 84
+48 18
+121 88
+
+out:
+3
+1
+4
+6
+11
+
+read more here
+https://www.geeksforgeeks.org/c-program-find-gcd-hcf-two-numbers/
+https://www.youtube.com/watch?v=JUzYl1TYMcU
